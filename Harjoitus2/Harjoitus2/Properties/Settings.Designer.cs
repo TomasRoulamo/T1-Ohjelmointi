@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Teht1.Properties
+namespace Harjoitus2.Properties
 {
 
 
