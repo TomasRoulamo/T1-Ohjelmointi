@@ -1,0 +1,10 @@
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.exe.config
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.exe
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\bin\Debug\Harjoitus1.pdb
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.csprojAssemblyReference.cache
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.Form1.resources
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.Properties.Resources.resources
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.csproj.GenerateResource.cache
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.csproj.CoreCompileInputs.cache
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.exe
+C:\Users\tomas.roulamo\source\repos\T1-tason_ohjelmointi\Harjoitus1\Harjoitus1\obj\Debug\Harjoitus1.pdb
