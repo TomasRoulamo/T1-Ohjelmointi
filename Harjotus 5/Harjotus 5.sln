@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus 5", "Harjotus 5\Harjotus 5.csproj", "{AC591AFF-48A5-41DB-BCF7-472D7FB3B54D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC591AFF-48A5-41DB-BCF7-472D7FB3B54D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC591AFF-48A5-41DB-BCF7-472D7FB3B54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC591AFF-48A5-41DB-BCF7-472D7FB3B54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC591AFF-48A5-41DB-BCF7-472D7FB3B54D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72FADE38-5F7F-44A7-B405-402F4C7D2FA3}
+	EndGlobalSection
+EndGlobal
