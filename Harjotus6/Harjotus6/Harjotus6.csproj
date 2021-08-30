@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AC591AFF-48A5-41DB-BCF7-472D7FB3B54D}</ProjectGuid>
+    <ProjectGuid>{2C88AC48-751A-4FEC-B3AD-1031BD1BFDAA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Harjotus_5</RootNamespace>
-    <AssemblyName>Harjotus 5</AssemblyName>
+    <RootNamespace>Harjotus6</RootNamespace>
+    <AssemblyName>Harjotus6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
