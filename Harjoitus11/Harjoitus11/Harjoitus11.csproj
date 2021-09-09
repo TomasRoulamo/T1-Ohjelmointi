@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8FC008D3-3721-4AF1-95E0-F16C23A3D9E8}</ProjectGuid>
+    <ProjectGuid>{3DABA3FD-56FF-44D1-B1DD-9E46C1E06159}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Harjoitus_9</RootNamespace>
-    <AssemblyName>Harjoitus 9</AssemblyName>
+    <RootNamespace>Harjoitus11</RootNamespace>
+    <AssemblyName>Harjoitus11</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice01.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

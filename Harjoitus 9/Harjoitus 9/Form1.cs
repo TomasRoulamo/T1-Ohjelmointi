@@ -16,5 +16,26 @@ namespace Harjoitus_9
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MuunnaBT_Click(object sender, EventArgs e)
+        {
+            double vastaus;
+            double asteet = Convert.ToDouble(AsteetTB.Text);
+            if (CelsiusRB.Checked)
+            {
+                vastaus = asteet * 1,8 + 32;
+                VastausLB.Text = asteet + "Fahrenheitia on " + vastaus + " Celsius astetta.";
+                VastausLB.Visible = true;
+            }
+            else if (FahrenheitRB.Checked)
+            {
+                vastaus = ()
+            }
+        }
     }
 }
