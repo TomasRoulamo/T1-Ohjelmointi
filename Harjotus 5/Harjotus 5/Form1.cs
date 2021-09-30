@@ -13,6 +13,7 @@ namespace Harjotus_5
 {
     public partial class LukujenJarjestys : Form
     {
+        List<int> jono = new List<int>();
         public LukujenJarjestys()
         {
             InitializeComponent();
@@ -27,7 +28,7 @@ namespace Harjotus_5
                     VastausLB.Text = "";
                     int[]
                     jonot = jono.ToArray();
-                    Array.Sort(jono);
+                    Array.Sort(jonot);
                     foreach (var item in jonot)
                     {
                         VastausLB.Text += item + " ";
@@ -47,11 +48,11 @@ namespace Harjotus_5
 
                 }
             }
-        private void TyhjaaLomake()
-            {
-                UusiLukuTB.Text = "";
-            }
+        
         }
-
+        private void TyhjaaLomake()
+        {
+            UusiLukuTB.Text = "";
+        }
     }
 }

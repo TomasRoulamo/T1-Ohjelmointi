@@ -28,6 +28,7 @@ namespace Harjotus6
             {
                 SalasanaPanel.Visible = false;
                 SalasanaOikeinPanel.Visible = true;
+
             }
             else
             {
